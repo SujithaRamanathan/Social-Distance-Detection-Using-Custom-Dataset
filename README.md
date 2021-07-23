@@ -2,7 +2,9 @@
 A digital system which can minimise the work of officials who are involved in the work of enforcing social distancing norms among public.It will detect and provide warning if pedestrians do not maintain the minimum social distance.
 
 
-![output1](https://user-images.githubusercontent.com/69512604/126737563-8d9b7ec3-d8c0-40e8-9378-392fedfa881a.gif)  ![output](https://user-images.githubusercontent.com/69512604/126742440-30811b54-f51a-4539-886a-c3575f847cf4.gif)
+![output1](https://user-images.githubusercontent.com/69512604/126737563-8d9b7ec3-d8c0-40e8-9378-392fedfa881a.gif)  
+
+![output](https://user-images.githubusercontent.com/69512604/126742440-30811b54-f51a-4539-886a-c3575f847cf4.gif)
 
 
 Social distancing in Real-Time using live video stream/IP camera in OpenCV.
