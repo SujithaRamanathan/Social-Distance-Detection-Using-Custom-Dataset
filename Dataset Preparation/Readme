@@ -1,3 +1,9 @@
 Firstly,with the help of ImageEye extension,we have downloaded the images of our interest.
 Mostly,the pedestrian images and some other images have been downloaded to train our model.
 
+
+Image Annotation(USING LABELIMG SOFTWARE)
+
+Once, the images have been downloaded,we have annotated the images with related labels(in this case PERSON)
+After annotation,the yolo format of the images have been obtained and stored.
+
