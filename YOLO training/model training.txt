@@ -1,0 +1,7 @@
+Model Training
+                Loading Darknet model   # transfer learning approach
+	Compile model
+	Configure make file
+	Create training and testing dataset files
+	Configure darknet YOLO model according to our project
+	Train model with darknet command
